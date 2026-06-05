@@ -1,0 +1,8 @@
+agritech-financing/
+│
+├── index.php
+├── dashboard.php
+├── apply.php
+├── process.php
+├── config.php
+└── style.css
